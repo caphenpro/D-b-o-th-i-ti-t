@@ -1,0 +1,6 @@
+{
+  "name": "ECMWF Weather & CAMS Air Quality",
+  "description": "Bản đồ trực quan dự báo thời tiết và chất lượng không khí toàn cầu từ mô hình ECMWF IFS và ECMWF CAMS.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
